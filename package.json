@@ -4,6 +4,11 @@
   "dependencies": {
     "express": "^4.14.0"
   },
+  "keywords": [
+    "javascript",
+    "related",
+    "words"
+  ],
   "description": "Learn how to do API",
   "main": "server.js",
   "scripts": {
